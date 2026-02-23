@@ -52,5 +52,19 @@ This project investigates the impact of different feature selection techniques a
 
 ### Final performance: Lasso + Random Forest has achieved best overall performance 
 
+-----------------------------------------------------------------------------------------------------
+
+Got it! Here's a **compact, recruiter-friendly version** suitable for a GitHub README:
+
+---
+
+#### Technologies & Concepts Used
+
+**Programming:** Python
+**Data Processing & Feature Engineering:** NumPy, pandas, CountVectorizer
+**Feature Selection:** Boruta, RFE (SVM), Lasso (L1), Chi-Square, Correlation Analysis
+**Machine Learning Models:** Random Forest, Logistic Regression, Decision Tree, Gradient Boosting, AdaBoost, Gaussian Naive Bayes, LDA/QDA, SVM, XGBoost
+**Model Evaluation & Optimization:** Accuracy Score, Train/Test Split, Hyperparameter Tuning
+
 
 
