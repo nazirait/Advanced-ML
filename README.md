@@ -1,8 +1,8 @@
-# Advanced-ML
+# Advanced Machine Learning 
 
 This project investigates the impact of different feature selection techniques and classification algorithms on both artificial and real-world datasets.
 
-Feature Selection Methods Evaluated:
+### Feature Selection Methods Evaluated:
 - Boruta
 - RFE + SVM
 - Lasso
@@ -11,7 +11,7 @@ Feature Selection Methods Evaluated:
 
 * Each selector’s key parameter was tuned based on the performance of an XGBoost classifier trained on selected features.
 
-Classifiers Evaluated:
+### Classifiers Evaluated:
 - Random Forest
 - Logistic Regression
 - Decision Tree
